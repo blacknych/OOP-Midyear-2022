@@ -6,7 +6,9 @@ public class HelloWorld
 
 		hello.setReply("Hello World");
 
-		System.out.println(hello.getReply());
-		System.out.println(hello.getReply());
-	}
+	 	for(int i =0; i < 10; i++)
+		{
+			System.out.println(hello.getReply());
+		}
+	}	
 }
