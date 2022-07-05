@@ -7,5 +7,6 @@ public class HelloWorld
 		hello.setReply("Hello World");
 
 		System.out.println(hello.getReply());
+		System.out.println(hello.getReply());
 	}
 }
