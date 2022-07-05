@@ -4,7 +4,7 @@ public class HelloWorld
 	{
 		Hello hello = new Hello();
 
-		hello.setReply("Hello World");
+		hello.setReply("Hi!!");
 
 	 	for(int i =0; i < 10; i++)
 		{
